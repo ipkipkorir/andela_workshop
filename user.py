@@ -22,7 +22,7 @@ class User():
 	 	#Get user and update
 
 	def _delete(self, user):
-		#get user and update
+		#get user and delete
 
 class Admin(User): #Inheriting from the User class
 	def __init__(self, name, email, password):
